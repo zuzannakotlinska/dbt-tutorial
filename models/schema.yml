@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: placeholder_model  # Placeholder since there are no real models
+    description: '{{ doc("table_testing") }}'
